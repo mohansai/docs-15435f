@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-26zmkh.assetshst.online/sitemap.xml
